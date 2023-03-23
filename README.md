@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salvatore Mazzullo</h1>
 <h3 align="center">FullStack Developer and Computer Engineer also known as StratoKyke</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salvatoremazzullo" alt="salvatoremazzullo" /></a> </p>
-
 - 🔭 I’m currently working on **Banca Popolare Sant'Angelo**
 
 - 👨‍💻 My principal project at the moment is **BPSAManagementServices**
